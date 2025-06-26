@@ -1,0 +1,9 @@
+Whole,false,Plate,0,8,-65536
+Half,false,Plate,8,4,-589816
+Quarter,false,Plate,12,2,-1048561
+Eighth,false,Plate,14,1,-1572841
+Eighth,false,Computer Ping,32,1,-2097121
+Quarter,false,Computer Ping,33,2,-2555866
+Half,false,Computer Ping,35,4,-3080146
+Half,false,Computer Ping,39,4,-3604426
+Whole,false,Computer Ping,43,8,-4063171
